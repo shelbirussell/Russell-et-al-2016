@@ -1,5 +1,5 @@
 # Russell-et-al-2016
-Perl scripts used in Russell et al. 2016. Mixed transmission modes and dynamic genome evolution in an obligate animal-bacterial symbiosis. ISME J.
+Perl scripts used in Russell S, Corbett-Detig R, and Cavanaugh C. 2017. Mixed transmission modes and dynamic genome evolution in an obligate animal-bacterial symbiosis. ISME J.
 
 Scripts are organized into folders pertaining to the analysis they were used in.
 
